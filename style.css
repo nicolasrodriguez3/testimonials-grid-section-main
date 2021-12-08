@@ -12,6 +12,9 @@ body {
   background-color: hsl(210, 46%, 95%);
   position: relative;
   min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .attribution {
 	font-size: 11px;
